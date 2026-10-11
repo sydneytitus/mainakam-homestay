@@ -217,6 +217,8 @@ main { max-width: 1120px; margin: 0 auto; padding: 0 var(--gutter); }
   color: var(--clay);
 }
 .card-value { font-size: 1.15rem; color: var(--forest); }
+.card-value.handle { display: inline-flex; align-items: center; gap: 0.5rem; }
+.ig-icon { width: 22px; height: 22px; flex-shrink: 0; }
 
 /* Footer */
 .site-footer {
