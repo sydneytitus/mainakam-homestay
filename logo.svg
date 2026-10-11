@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 180" role="img" aria-label="Mainakam Homestay logo">
   <defs><path id="lf" d="M0 -4 C-4 -10 -10 -8 -10 -3 C-10 2 -4 6 0 10 C4 6 10 2 10 -3 C10 -8 4 -10 0 -4 Z"/></defs>
   <circle cx="120" cy="62" r="34" fill="#e0a96d" opacity="0.8"/>
   <path d="M50 104 L100 40 L118 64 L134 46 L190 104 Z" fill="#2f5d3a"/>
@@ -8,6 +8,6 @@
   <use href="#lf" fill="#8fc39a" transform="translate(138 74) rotate(-20) scale(1.0)"/>
   <use href="#lf" fill="#8fc39a" transform="translate(168 64) rotate(25) scale(1.0)"/>
   <use href="#lf" fill="#8fc39a" transform="translate(190 88) rotate(-15) scale(0.95)"/>
-  <text x="120" y="142" text-anchor="middle" font-family="Georgia, serif" font-size="20" letter-spacing="3" fill="#1f3b2d">MAINAKAM</text>
-  <text x="120" y="156" text-anchor="middle" font-family="system-ui, Arial, sans-serif" font-size="9" letter-spacing="4" fill="#b7663d">HOMESTAY</text>
+  <text x="120" y="150" text-anchor="middle" font-family="Georgia, serif" font-size="30" font-weight="bold" letter-spacing="3" fill="#1f3b2d">MAINAKAM</text>
+  <text x="120" y="172" text-anchor="middle" font-family="system-ui, Arial, sans-serif" font-size="16" letter-spacing="5" fill="#b7663d">HOMESTAY</text>
 </svg>
