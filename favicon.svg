@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="30 30 180 110">
+  <defs><path id="lf" d="M0 -4 C-4 -10 -10 -8 -10 -3 C-10 2 -4 6 0 10 C4 6 10 2 10 -3 C10 -8 4 -10 0 -4 Z"/></defs>
+  <circle cx="120" cy="62" r="34" fill="#e0a96d" opacity="0.8"/>
+  <path d="M50 104 L100 40 L118 64 L134 46 L190 104 Z" fill="#2f5d3a"/>
+  <path d="M40 110 C 60 90, 66 84, 82 84 S 110 60, 124 74 S 160 70, 170 60 S 196 80, 200 100" fill="none" stroke="#8fc39a" stroke-width="3" stroke-linecap="round"/>
+  <use href="#lf" fill="#8fc39a" transform="translate(64 96) rotate(-30) scale(1.1)"/>
+  <use href="#lf" fill="#8fc39a" transform="translate(96 74) rotate(20) scale(1.0)"/>
+  <use href="#lf" fill="#8fc39a" transform="translate(138 74) rotate(-20) scale(1.0)"/>
+  <use href="#lf" fill="#8fc39a" transform="translate(168 64) rotate(25) scale(1.0)"/>
+</svg>
